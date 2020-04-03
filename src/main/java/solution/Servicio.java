@@ -1,5 +1,4 @@
 package solution;
-import problem.Persona;
 
 /**
  *
